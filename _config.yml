@@ -1,0 +1,50 @@
+title: BERSOCIAL | Streamer.bot Extensions
+description: Visit the new website
+og:image: https://raw.githubusercontent.com/bersocial/bersocial/refs/heads/main/assets/page-design/website-card.webp
+theme: just-the-docs
+nav_enabled: false
+url: https://bersocial.github.io/
+
+logo: "/assets/general/logo.png"
+favicon_ico: "/assets/media/favicon.ico"
+
+color_scheme: foo
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "StreamerBot extensions by bersocial"
+
+enable_copy_code_button: true
+
+ga_tracking: G-E3GPLL6JPF
+ga_tracking_anonymize_ip: true
+
+icon_mapping:
+  Quick Maths: mdi:calculator
+  Movie Quiz: mdi:movie
+  Video Game Quiz: mdi:gamepad
+  All-In-One Moderation Tools: mdi:shield-check
+  Bluesky: mdi:cloud
+#aux_links:
+  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-seo-tag
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: Info
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

@@ -1,0 +1,2 @@
+• Added 'Default Device' to settings
+• Default Devices may wake from sleep if inactive

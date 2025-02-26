@@ -1,0 +1,2 @@
+• UI design changes
+• Improved debugging

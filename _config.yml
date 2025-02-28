@@ -3,7 +3,7 @@ description: Visit the new website
 og:image: https://raw.githubusercontent.com/bersocial/bersocial/refs/heads/main/assets/page-design/website-card.webp
 theme: just-the-docs
 nav_enabled: false
-url: https://bersocial.github.io/
+url: https://bersocial.github.io/obs-widget
 
 logo: "/assets/general/logo.png"
 favicon_ico: "/assets/media/favicon.ico"
